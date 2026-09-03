@@ -39,14 +39,17 @@ Open to **full-time**, **contract**, and **remote** opportunities.
 
 ---
 
+<div align="center">
+
 ### Tech stack
 
 | **Frontend** | **Backend & data** | **AI** | **Motion** | **Tooling** |
 | :---: | :---: | :---: | :---: | :---: |
 | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) | ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) | ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) | ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
 | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) | ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black) | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | ![GitHub API](https://img.shields.io/badge/GitHub%20API-181717?style=flat-square&logo=github&logoColor=white) | ![ScrollTrigger](https://img.shields.io/badge/ScrollTrigger-88CE02?style=flat-square&logo=greensock&logoColor=black) | ![Serwist](https://img.shields.io/badge/PWA%20Serwist-000000?style=flat-square&logo=pwa&logoColor=white) |
-| | | | ![Lenis](https://img.shields.io/badge/Lenis-111111?style=flat-square&logo=lenis&logoColor=white) | ![Chrome Extensions](https://img.shields.io/badge/Chrome%20Extensions-4285F4?style=flat-square&logo=googlechrome&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | ![GitHub API](https://img.shields.io/badge/GitHub%20API-181717?style=flat-square&logo=github&logoColor=white) | ![Lenis](https://img.shields.io/badge/Lenis-111111?style=flat-square&logo=lenis&logoColor=white) | ![Serwist](https://img.shields.io/badge/PWA%20Serwist-000000?style=flat-square&logo=pwa&logoColor=white) |
+
+</div>
 
 ---
 
