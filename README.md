@@ -1,15 +1,18 @@
+<div align="center">
+
 # **Zohaib Nawaz**
 
 ### Full-Stack Developer · Next.js · TypeScript · Supabase
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Building+SaaS+%26+Multi-Tenant+Products;AI-Integrated+Web+Applications;Conversion-Focused+Web+Experiences)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Building+SaaS+%26+Multi-Tenant+Products;AI-Integrated+Web+Applications;Conversion-Focused+Web+Experiences" alt="Typing SVG" />
 
-![Portfolio](https://img.shields.io/badge/Portfolio-zohaibnawaz.dev-000000?style=for-the-badge&logo=googlechrome&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-zohaib--nawaz-181717?style=for-the-badge&logo=github&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-zohaibnawaz--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-![X](https://img.shields.io/badge/X-zohaibnawazdev-000000?style=for-the-badge&logo=x&logoColor=white)
+<br />
 
-![Profile views](https://komarev.com/ghpvc/?username=zohaib-nawaz&label=Profile%20views&color=58A6FF&style=flat-square)![GitHub followers](https://img.shields.io/github/followers/zohaib-nawaz?style=flat-square&label=Followers&color=58A6FF)
+<a href="https://zohaibnawaz.dev"><img src="https://img.shields.io/badge/Portfolio-zohaibnawaz.dev-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://github.com/zohaib-nawaz"><img src="https://img.shields.io/badge/GitHub-zohaib--nawaz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/zohaibnawaz-dev"><img src="https://img.shields.io/badge/LinkedIn-zohaibnawaz--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
+</div>
 
 ---
 
