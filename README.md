@@ -150,8 +150,8 @@ Coursework in software engineering, web technologies, databases, and systems fun
 ### GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zohaib-nawaz&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zohaib-nawaz&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="Top languages" height="160" />
+  <img src="https://github-readme-stats.shion.dev/api?username=zohaib-nawaz&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;include_all_commits=true" alt="GitHub stats" height="160" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=zohaib-nawaz&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;langs_count=6" alt="Top languages" height="160" />
 </div>
 
 <p align="center">
