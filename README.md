@@ -1,27 +1,31 @@
-<div align="center">
+# Zohaib Nawaz
 
-  <img src="https://avatars.githubusercontent.com/u/216143112?v=4" alt="Zohaib Nawaz" width="110" height="110" style="border-radius: 50%;" />
+### Full-Stack Developer · Next.js · TypeScript · Supabase
 
-  <h1>Zohaib Nawaz</h1>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=false&vCenter=true&width=620&lines=Building+SaaS+%26+Multi-Tenant+Products;AI-Integrated+Web+Applications;Conversion-Focused+Web+Experiences)
 
-  <h3>Full-Stack Developer · Next.js · TypeScript · Supabase</h3>
+<table>
+  <tr>
+    <td>
+      <a href="https://zohaibnawaz.dev"><img src="https://img.shields.io/badge/Portfolio-zohaibnawaz.dev-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+    </td>
+    <td>
+      <a href="https://github.com/zohaib-nawaz"><img src="https://img.shields.io/badge/GitHub-zohaib--nawaz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/zohaibnawaz-dev"><img src="https://img.shields.io/badge/LinkedIn-zohaibnawaz--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    </td>
+    <td>
+      <a href="https://x.com/zohaibnawazdev"><img src="https://img.shields.io/badge/X-zohaibnawazdev-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+    </td>
+    <td>
+      <a href="mailto:zohaibnawaz.dev@gmail.com"><img src="https://img.shields.io/badge/Email-zohaibnawaz.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    </td>
+  </tr>
+</table>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Building+SaaS+%26+Multi-Tenant+Products;AI-Integrated+Web+Applications;Conversion-Focused+Web+Experiences" alt="Typing SVG" />
-
-  <br />
-
-  <a href="https://zohaibnawaz.dev"><img src="https://img.shields.io/badge/Portfolio-zohaibnawaz.dev-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://github.com/zohaib-nawaz"><img src="https://img.shields.io/badge/GitHub-zohaib--nawaz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/zohaibnawaz-dev"><img src="https://img.shields.io/badge/LinkedIn-zohaibnawaz--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/zohaibnawazdev"><img src="https://img.shields.io/badge/X-zohaibnawazdev-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="mailto:zohaibnawaz.dev@gmail.com"><img src="https://img.shields.io/badge/Email-zohaibnawaz.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-  <br /><br />
-
-  <img src="https://komarev.com/ghpvc/?username=zohaib-nawaz&label=Profile%20views&color=58A6FF&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/zohaib-nawaz?style=flat-square&label=Followers&color=58A6FF" alt="GitHub followers" />
-
-</div>
+![Profile views](https://komarev.com/ghpvc/?username=zohaib-nawaz&label=Profile%20views&color=58A6FF&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/zohaib-nawaz?style=flat-square&label=Followers&color=58A6FF)
 
 ---
 
@@ -50,17 +54,12 @@ Open to **full-time**, **contract**, and **remote** opportunities.
 
 ### Tech stack
 
-<div align="center">
-
-| **Frontend** | **Backend & data** | **AI** | **Craft** |
-| :---: | :---: | :---: | :---: |
-| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) | ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) | ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) | ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
-| ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) | ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black) |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | ![GitHub API](https://img.shields.io/badge/GitHub%20API-181717?style=flat-square&logo=github&logoColor=white) | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
-
-</div>
-
-**Also in the toolbox:** Tailwind CSS · GSAP · ScrollTrigger · Lenis · PWA (Serwist) · GitHub Actions · Chrome Extensions
+| **Frontend** | **Backend & data** | **AI** | **Motion** | **Tooling** |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) | ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) | ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) | ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
+| ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) | ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black) | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | ![GitHub API](https://img.shields.io/badge/GitHub%20API-181717?style=flat-square&logo=github&logoColor=white) | ![ScrollTrigger](https://img.shields.io/badge/ScrollTrigger-88CE02?style=flat-square&logo=greensock&logoColor=black) | ![Serwist](https://img.shields.io/badge/PWA%20Serwist-000000?style=flat-square&logo=pwa&logoColor=white) |
+| | | | ![Lenis](https://img.shields.io/badge/Lenis-111111?style=flat-square&logo=lenis&logoColor=white) | ![Chrome Extensions](https://img.shields.io/badge/Chrome%20Extensions-4285F4?style=flat-square&logo=googlechrome&logoColor=white) |
 
 ---
 
@@ -116,28 +115,6 @@ Production portfolio: **[zohaibnawaz.dev](https://zohaibnawaz.dev)** — PWA, th
 
 ---
 
-### Experience
-
-**Web Developer** — [Ray Prime Consultants](https://zohaibnawaz.dev/work)  
-January 2026 – Present · Shanghai, China (Remote)
-
-- Marketing and business websites with React and Next.js — accessibility, caching, and image strategy.
-- Stakeholder requirements translated into scoped milestones and maintainable handoffs.
-
-**Software Engineer** — Triminage  
-June 2025 – Present · Punjab, Pakistan
-
-- Full-stack features from planning through release with TypeScript, React, and API integrations.
-- QA, edge-case handling, and component/API conventions that reduced rework.
-
-**Web Developer** — Independent Contractor  
-February 2025 – January 2026 · Remote
-
-- Landing pages, portfolios, and business sites aligned with brand and conversion goals.
-- Mobile-first layouts and content hierarchy to improve scannability.
-
----
-
 ### Education
 
 **B.S. Computer Software Engineering**  
@@ -149,14 +126,10 @@ Coursework in software engineering, web technologies, databases, and systems fun
 
 ### GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=zohaib-nawaz&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;include_all_commits=true" alt="GitHub stats" height="160" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=zohaib-nawaz&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;langs_count=6" alt="Top languages" height="160" />
-</div>
+![GitHub stats](https://github-readme-stats.shion.dev/api?username=zohaib-nawaz&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true)
+![Top languages](https://github-readme-stats.shion.dev/api/top-langs/?username=zohaib-nawaz&layout=compact&theme=transparent&hide_border=true&langs_count=6)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=zohaib-nawaz&theme=transparent&hide_border=true" alt="GitHub streak" />
-</p>
+![GitHub streak](https://streak-stats.demolab.com?user=zohaib-nawaz&theme=transparent&hide_border=true)
 
 ---
 
@@ -170,6 +143,4 @@ Available for **distinguished projects** — full-time, contract, or remote.
 
 **Start a conversation:** [zohaibnawaz.dev/contact](https://zohaibnawaz.dev/contact) · [zohaibnawaz.dev@gmail.com](mailto:zohaibnawaz.dev@gmail.com)
 
-<p align="center">
-  <i>Clarity over cleverness. Performance is a feature. Systems, not screens.</i>
-</p>
+*Clarity over cleverness. Performance is a feature. Systems, not screens.*
