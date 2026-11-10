@@ -69,7 +69,6 @@ Everything I ship, with screenshots, install steps and a changelog, lives on **[
 | **[ZN AI](https://work.zohaibnawaz.dev/products/zn-ai)** | Real-time voice assistant that answers questions about my work | React · Express · Gemini Live | [Live](https://ai.zohaibnawaz.dev) · [Case&nbsp;study](https://zohaibnawaz.dev/project/project-detail/zn-ai) |
 | **[ZnPedia](https://work.zohaibnawaz.dev/products/znpedia)** | 175 chapters of JavaScript, React and Next.js in Roman Urdu and English, with an AI tutor | Next.js · MDX · Gemini | [Live](https://znpeida.zndev.online) |
 | **[Daily Routine](https://work.zohaibnawaz.dev/products/daily-routine)** | Daily routine dashboard with a timeline, push reminders, charts and Excel export | Next.js · Tailwind CSS · Web Push | [Live](https://time.zndev.online) |
-| **[SecureAttend](https://work.zohaibnawaz.dev/products/secure-attend)** | Face-recognition attendance with a live monitoring dashboard | Next.js · face-api.js · Supabase | [Live](https://fas.zndev.online) |
 | **ZN CMS** | Private ops desk: Share Studio, hire forms, leads and manager approvals on one database | Next.js · Supabase | [Case&nbsp;study](https://zohaibnawaz.dev/project/project-detail/zn-cms) |
 
 #### Client websites
@@ -79,7 +78,6 @@ Everything I ship, with screenshots, install steps and a changelog, lives on **[
 | **[Ray Prime Consultants](https://work.zohaibnawaz.dev/products/ray-prime-consultants)** | Study, work and business support for people moving to China: admissions, scholarships, visas | Next.js · Tailwind CSS · Radix UI · Motion | [Live](https://rayprimeconsultants.com) · [Light](https://rpc01.vercel.app) · [Dark](https://rpc02.vercel.app) |
 | **[Apex Pulse](https://work.zohaibnawaz.dev/products/apex-pulse)** | Women's fitness institute site with programmes, coaching and a member portal | Next.js · Supabase · Tailwind CSS | [Live](https://apex-pulsee.vercel.app) |
 | **[Noreen Eman Portfolio](https://work.zohaibnawaz.dev/products/noreen-eman)** | Warm, editorial portfolio for a full-stack developer, with light and dark themes | Next.js · Tailwind CSS | [Live](https://noreen-eman.vercel.app) |
-| **[azohi.site](https://work.zohaibnawaz.dev/products/azohi)** | Showcase for Chrome extensions, open source projects and custom software | HTML · CSS · JavaScript | [Live](https://azohi-site.vercel.app) |
 
 #### My sites & experiments
 
@@ -88,9 +86,6 @@ Everything I ship, with screenshots, install steps and a changelog, lives on **[
 | **[zohaibnawaz.dev](https://work.zohaibnawaz.dev/products/portfolio)** | My portfolio with case studies, an on-site Gemini assistant, theme studio, installable PWA | Next.js · Supabase · GSAP · Gemini | [Live](https://zohaibnawaz.dev) · [Case&nbsp;study](https://zohaibnawaz.dev/project/project-detail/zohaibnawaz-dev) |
 | **[ZN Hub](https://work.zohaibnawaz.dev)** | Catalogue of everything I ship: apps, extensions, scripts and websites, one download away | Next.js · GitHub Releases | [Live](https://work.zohaibnawaz.dev) |
 | **[ZNDev Studio](https://work.zohaibnawaz.dev/products/zndev-studio)** | Studio site for web, app and AI projects, with a project brief form and hiring pages | Next.js · Supabase · GSAP | [Live](https://studio.zndev.online) |
-| **[Mac Portfolio](https://work.zohaibnawaz.dev/products/mac-portfolio)** | A portfolio that behaves like macOS, with a dock, draggable windows and a voice assistant | Next.js · GSAP · Zustand | [Live](https://mac-portfolio.zndev.online) |
-| **[3D Showcase](https://work.zohaibnawaz.dev/products/showcase-3d)** | Scroll-driven rotating 3D gallery for showing off work | React · three.js · GSAP | [Live](https://showcase3d.zndev.online) |
-| **[Pricing Page](https://work.zohaibnawaz.dev/products/pricing-page)** | Website package pricing in 10 currencies, with an instant quote form | HTML · CSS · JavaScript | [Live](https://pricingpage.zndev.online) |
 
 #### Apps & games
 
