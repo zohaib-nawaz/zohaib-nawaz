@@ -8,8 +8,6 @@
 
 <br />
 
-<a href="https://zohaibnawaz.dev"><img src="https://img.shields.io/badge/Portfolio-zohaibnawaz.dev-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://work.zohaibnawaz.dev"><img src="https://img.shields.io/badge/ZN%20Hub-work.zohaibnawaz.dev-58A6FF?style=for-the-badge&logo=appstore&logoColor=white" alt="ZN Hub" /></a>
 <a href="https://github.com/zohaib-nawaz"><img src="https://img.shields.io/badge/GitHub-zohaib--nawaz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/zohaibnawaz-dev"><img src="https://img.shields.io/badge/LinkedIn-zohaibnawaz--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
@@ -84,6 +82,6 @@ Available for **distinguished projects**: full-time, contract, or remote.
 - **Location:** Dullewala, Punjab, Pakistan · Remote (PKT)
 - **Hours:** Mon - Fri, 09:00 - 18:00 PKT
 
-**Start a conversation:** [zohaibnawaz.dev/contact](https://zohaibnawaz.dev/contact) · [zohaibnawaz.dev@gmail.com](mailto:zohaibnawaz.dev@gmail.com)
+**Start a conversation:** [zohaibnawaz.dev@gmail.com](mailto:zohaibnawaz.dev@gmail.com)
 
 *Clarity over cleverness. Performance is a feature. Systems, not screens.*
